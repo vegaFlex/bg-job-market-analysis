@@ -20,3 +20,7 @@ reports figures contains charts
 
 Tools
 Python pandas matplotlib scikit learn Jupyter.
+
+Dataset note
+Raw dataset is not included due to size limits.
+You can download similar datasets from Kaggle job postings datasets.
